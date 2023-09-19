@@ -1,3 +1,2 @@
 # AgilePrototyping
-GG
-Dette er en _test_
+Above are all the files for the assignments. Code should be written in markdown format
